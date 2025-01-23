@@ -1,0 +1,1 @@
+SELECT nom, AVG(capacite) FROM salles 
